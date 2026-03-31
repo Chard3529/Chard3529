@@ -1,4 +1,4 @@
 # Welcome to my github!
-## There is not a lot here for you, yet.
+## Here are my demo projects:
 
-I mainly use github for school work, there is therefore not a lot of public repositories. The ones that are are simply school projects that needed to be public.
+### LLMorris is a demo on machine learning used to predict gas prices
