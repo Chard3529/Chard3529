@@ -1,8 +1,7 @@
 # Welcome to my github!
 ## Here are my demo projects:
 
-### MLorris 
+### ML_morris 
 A demo on machine learning used to predict gas prices
 
-### RiskClusters
-A simple coding exercice invovling matrixes
+
